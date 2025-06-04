@@ -1,12 +1,10 @@
 
  * Custom Ease & Bezier Curve Control
  * -----------------------------------
- * Description:
- * A lightweight After Effects expression for custom easing between two values
- * over time using cubic Bezier curve control. Provides smoother and more natural 
- * motion compared to linear interpolation.
+ * After Effects expression for custom easing between two values
+ * over time using cubic Bezier curve control. Provides smoother and more natural motion.
  *
- * Usage:
+ * Use:
  * customEase(time, startTime, endTime, startValue, endValue, [x1, y1, x2, y2]);
  * 
  * Parameters:
